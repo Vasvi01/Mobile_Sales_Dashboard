@@ -51,7 +51,9 @@ To view or edit this dashboard:
 **📌 Use Cases**
 1. Business performance monitoring
 2. KPI tracking
+   
 3.Sales/Marketing analysis (depending on your data context)
+
 4.Executive dashboards
 
 
